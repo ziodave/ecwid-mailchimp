@@ -1,0 +1,8 @@
+com.ecwid.mailchimp
+com.ecwid.mailchimp.connection
+com.ecwid.mailchimp.method.v1_3.campaign
+com.ecwid.mailchimp.method.v1_3.helper
+com.ecwid.mailchimp.method.v1_3.list
+com.ecwid.mailchimp.method.v1_3.security
+com.ecwid.mailchimp.method.v1_3.template
+com.ecwid.mailchimp.method.v2_0.lists
